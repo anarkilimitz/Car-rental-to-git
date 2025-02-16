@@ -51,6 +51,9 @@ body {
 	scrollbar-width: none; /* Firefox */
 }
 
+::-webkit-scrollbar {
+	width: 0;
+}
 /* -----Header------- */
 .header {
 	position: sticky;
