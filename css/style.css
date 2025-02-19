@@ -207,6 +207,10 @@ body {
 	font-weight: 500;
 	line-height: normal;
 	transition: 0.5s;
+	font-family: "Caveat", serif;
+    	font-optical-sizing: auto;
+    	font-style: normal;
+   	font-weight: 900;
 }
 
 /* -------------------------- Logo effect------------------------------------------ */
